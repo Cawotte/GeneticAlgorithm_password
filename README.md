@@ -31,11 +31,11 @@ Generation #11 : helld qorld, fit : 9.125, age : 2 <br/>
 Generation #12 : helli world, fit : 10.0, age : 0 <br/>
 Generation #13 : hellw world, fit : 10.125, age : 0<br/>
 Generation #14 : hellw world, fit : 10.125, age : 1<br/>
-Generation #15 : hello world, fit : 11.0, age : 0<br/>
-
+Generation #15 : hello world, fit : 11.0, age : 0<br/><br/>
 Algorithm terminated after 15 generations ! <br/>
 Best result : hello world, fit : 11.0, age : 0 <br/>
 Number of mutation : 1316 <br/>
------------------------------------------- 
+\------------------------------------------<br/>
+------------------------------------------
 
 
